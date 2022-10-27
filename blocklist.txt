@@ -1,0 +1,1 @@
+||atlassian.net/gateway/api/gasv3/api/v1/batch
